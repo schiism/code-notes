@@ -1,5 +1,5 @@
 ---
-title: Example note
+title: SSH locale fix
 tags:
   - bash
   - ssh
